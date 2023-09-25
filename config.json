@@ -6,7 +6,7 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "fluid",
   "css": "./custom.css",
   "footer": "Yes",
   "usage-stats": false
